@@ -1,0 +1,52 @@
+body {
+    background: #f8eccf;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.wrapper{
+    text-align: center;
+}
+.catfacts{
+    text-align: left;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding-top: 15px;
+}
+
+.createdAt{
+    font-style: italic;
+}
+
+.todo-list{  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: #209cee;
+    border-radius: 4px;
+    max-width: 400px;
+    padding: 5px;
+}
+
+.todo {
+    align-items: center;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    padding: 3px 10px;
+}
